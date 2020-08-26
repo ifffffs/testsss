@@ -1,1 +1,1 @@
-撒大大
+print{hello world}
